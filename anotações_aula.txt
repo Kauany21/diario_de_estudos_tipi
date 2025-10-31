@@ -1,0 +1,3 @@
+"" 
+"Anota‡äes da aula 2 - Comandos b sicos do Git" 
+"Exerc¡cio 1: Fazer um programa com estrutura de repeti‡Æo" 
